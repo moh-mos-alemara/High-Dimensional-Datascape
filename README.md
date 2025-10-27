@@ -3,9 +3,9 @@ Dataset with plenty of columns perfect for dimensionality reduction analysis
 
 Numerical Data with provided binary labels
 
-*230 Rows
+✔ 230 Rows
 
-*537 Columns
+✔ 537 Columns
 
 ```batch
 library(readr)
