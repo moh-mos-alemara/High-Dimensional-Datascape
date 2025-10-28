@@ -9,6 +9,6 @@ Numerical Data with provided binary labels
 
 ```batch
 library(readr)
-url <- "https://raw.githubusercontent.com/moh-mos-alemara/High-Dimensional-Datascape/refs/heads/main/data.csv"
+url <- "https://raw.githubusercontent.com/mohammed-alemara/High-Dimensional-Datascape/refs/heads/main/data.csv"
 data <- read_csv(url)
 ```
